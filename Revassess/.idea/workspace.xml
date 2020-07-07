@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301ba9b5-d3d4-43d7-abb7-e0cf80cc6851" name="Default Changelist" comment="" />
+    <list default="true" id="301ba9b5-d3d4-43d7-abb7-e0cf80cc6851" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,5 +35,11 @@
       <updated>1593619835636</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3740" y="295" key="FileChooserDialogImpl" timestamp="1594157101642">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3740" y="295" key="FileChooserDialogImpl/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594157101642" />
   </component>
 </project>
