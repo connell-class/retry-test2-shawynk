@@ -1,0 +1,1 @@
+SELECT * FROM STUDY_SET JOIN app_user ON study_set.owner_id = app_user.user_id WHERE owner_id = 5

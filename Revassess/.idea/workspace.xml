@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="301ba9b5-d3d4-43d7-abb7-e0cf80cc6851" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/answer1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/answer2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer2.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/answer3.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer3.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/setup.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/setup.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +27,116 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="JUnit.Tier2Tests">
+    <configuration name="Answer1Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier2" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier2.Answer1Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier2" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier2.Answer2Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer3Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier2" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier2.Answer3Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer4Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier2" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier2.Answer4Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tier2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier2" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier2.Tier2Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Revassess" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="com.revature.tier2" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier2.Answer1Tests" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="JUnit.Answer1Tests.test1" />
+      <item itemvalue="JUnit.Answer4Tests" />
+      <item itemvalue="JUnit.Answer2Tests" />
+      <item itemvalue="JUnit.Answer3Tests" />
+      <item itemvalue="JUnit.Tier2Tests" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tier2Tests" />
+        <item itemvalue="JUnit.Answer2Tests" />
+        <item itemvalue="JUnit.Answer3Tests" />
+        <item itemvalue="JUnit.Answer4Tests" />
+        <item itemvalue="JUnit.Answer1Tests.test1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,9 +152,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="3552" y="198" key="#Project_Structure" timestamp="1594217804390">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3552" y="198" key="#Project_Structure/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594217804390" />
+    <state x="3483" y="31" width="1092" height="895" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594219323970">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3483" y="31" width="1092" height="895" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594219323970" />
+    <state x="3092" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1594219790213">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3092" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594219790213" />
+    <state x="3689" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594219289989">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3689" y="324" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594219289989" />
     <state x="3740" y="295" key="FileChooserDialogImpl" timestamp="1594157101642">
       <screen x="3000" y="0" width="1920" height="1080" />
     </state>
     <state x="3740" y="295" key="FileChooserDialogImpl/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594157101642" />
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom" timestamp="1594313607660">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.bottom/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594313607660" />
+    <state width="1877" height="287" key="GridCell.Tab.0.center" timestamp="1594313607660">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.center/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594313607660" />
+    <state width="1877" height="287" key="GridCell.Tab.0.left" timestamp="1594313607660">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.left/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594313607660" />
+    <state width="1877" height="287" key="GridCell.Tab.0.right" timestamp="1594313607660">
+      <screen x="3000" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="287" key="GridCell.Tab.0.right/0.0.1500.1000/3000.0.1920.1080/-1920.0.1920.1080@3000.0.1920.1080" timestamp="1594313607660" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Revassess$Answer1Tests_test1.ic" NAME="Answer1Tests.test1 Coverage Results" MODIFIED="1594219146103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.revature.tier2.*</FILTER>
+    </SUITE>
   </component>
 </project>
