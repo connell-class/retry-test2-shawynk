@@ -12,6 +12,7 @@ import java.sql.Types;
 
 import com.revature.config.ConnectionUtil;
 
+import org.junit.Assert;
 import org.junit.Test;
 
 /**
@@ -27,6 +28,11 @@ public class Answer4Tests {
     @Test
     public void test4() {
       try (Connection conn = DriverManager.getConnection(ConnectionUtil.URL, ConnectionUtil.USERNAME, ConnectionUtil.PASSWORD)) {
+
+
+        conn.setAutoCommit(false); // added this line
+
+
         String sql = "{ call " + ConnectionUtil.TIER_3_PROCEDURE_NAME + "(?, ?) }";
         CallableStatement cs = conn.prepareCall(sql);
         // First parameter is set to user_id 4, since this user owns study sets
@@ -43,8 +49,14 @@ public class Answer4Tests {
             // Expects user_id 4 from every third column (OWNER_ID)
             assertEquals(userId, rs.getInt(3));
         }
+
+
+        conn.commit(); // added this line
+
+
       } catch(SQLException e){
           e.printStackTrace();
+          Assert.fail();
       }
       addPoints(40);
     }
